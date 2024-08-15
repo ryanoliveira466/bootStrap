@@ -1,0 +1,318 @@
+body{
+    background-image: linear-gradient(to bottom right, rgb(188, 188, 188), rgb(165, 165, 165));
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;   
+}
+
+@media (max-width: 386px) {
+    .navbar    .collapse     {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        justify-items: center;
+        text-align: center;
+        font-size: small;
+    }
+     
+     
+  }
+
+ 
+a{
+    color: rgb(255, 255, 255);
+     text-decoration: none;
+    font-family: "Arial";
+    
+}
+   
+p{
+    color: rgb(0, 0, 0);
+     
+    font-family: "Arial";
+}
+
+h3{
+    color: antiquewhite;
+     
+    font-family: "Arial";
+}
+
+h1{
+    color: antiquewhite;
+     
+    font-family: "Arial";
+}
+
+.titulo{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.fundoImagemTitulo{
+    display: flex;
+    justify-content: center;
+}
+
+.imagemTitulo{
+    width: 200px;
+    height: 200px;
+    border: solid transparent;
+    border-radius: 50%;
+    overflow: hidden;
+    flex-shrink: 0;
+     
+    
+}
+
+.tituloEscolaridade{
+    display: flex;
+    justify-content: center;  
+    padding-top: 30px;
+}
+
+.escolaridade{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+     
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.escPost1{
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 20%;
+}
+
+
+
+.escPost2{
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 20%;  
+}
+
+.tituloGostos{
+    display: flex;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+.gostosPessoaisHobbies{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+   
+    
+    
+    
+
+}
+
+.gosPost1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  
+    
+   
+}
+
+.imgGos1{
+    display: flex;
+    justify-content: center;
+     
+    border-radius: 20%;  
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-shrink: 0;
+     
+}
+
+.gosPost2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+   
+     
+    
+    
+}
+
+.imgGos2{
+    display: flex;
+    justify-content: center;
+     
+    border-radius: 20%;  
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-shrink: 0;
+    
+}
+
+.gosPost3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+    flex-wrap: wrap;
+}
+
+.imgGos3{
+    display: flex;
+    justify-content: center;
+     
+    border-radius: 20%;  
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-shrink: 0;
+    
+}
+
+.tituloRedes{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+
+}
+
+.redesSociais{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    text-align: center;
+    flex-wrap: wrap;
+    
+    
+   
+    
+}
+
+.redPost1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+  
+    
+    
+}
+
+.redImg1{
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 20%;  
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-shrink: 0;
+   
+}
+
+.redPost2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+   
+    
+    
+}
+
+.redImg2{
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 20%;  
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-shrink: 0;
+}
+
+.redPost3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: 1rem;
+     
+   
+
+    
+}
+
+.redImg3{
+    display: flex;
+    justify-content: center;
+    
+    border-radius: 20%;  
+    padding-left: 10px;
+    padding-right: 10px;
+    flex-shrink: 0;
+}
+
+
+.rodape{
+    display: flex;
+    justify-content: center;
+    padding-top: 60px;
+    text-align: center;
+    flex-wrap: wrap;
+    
+}
+
+ 
+.navbar    .collapse     {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    text-align: center;
+}
+
+.tituloImagens{
+    display: flex;
+    justify-content: center;
+}
+
+.card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 10rem;
+     
+}
+
+ 
+
+.carousel-caption{
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     font-size: 1vw;
+}
+
+.caixaCard{
+    display: flex;
+    justify-content: center;
+     
+}
+
+ 
