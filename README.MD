@@ -25,7 +25,6 @@ O Bootstrap é um conjunto de ferramentas que inclui:
 3. **Customização**: Apesar de fornecer um conjunto de estilos prontos, o Bootstrap também permite que você personalize o design para atender às necessidades do seu projeto.
 
 4. **Suporte a JavaScript**: O Bootstrap oferece muitos componentes que exigem JavaScript, como modais, popovers, tooltips e carrosséis, tudo pronto para ser utilizado.
-5. 
 ----
 
 ### Como começar com o Bootstrap:
