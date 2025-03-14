@@ -31,7 +31,7 @@ O Bootstrap é um conjunto de ferramentas que inclui:
 
 Para usar o Bootstrap, basta incluir os arquivos CSS e JavaScript no seu projeto.
 
-Utilize o link acima para os links atualizados 
+Utilize o link acima para os links atualizados:
 
 ```javascript
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
